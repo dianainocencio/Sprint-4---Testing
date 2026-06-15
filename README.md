@@ -26,10 +26,6 @@ O projeto é composto por uma aplicação mobile integrada a serviços de backen
 
 A arquitetura foi planejada para garantir organização, segurança e boa experiência de uso.
 
-## Finalidade Acadêmica
-
-Este projeto foi desenvolvido como parte das atividades acadêmicas da disciplina de Engenharia de Software, com foco em documentação, arquitetura, qualidade e testes de software.
-
 ## Conclusão
 
 O NICE busca unir tecnologia e saúde mental em uma solução simples, moderna e organizada, contribuindo para o acompanhamento emocional dos usuários e para a melhoria contínua do cuidado com o bem-estar.
